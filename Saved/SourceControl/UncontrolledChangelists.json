@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/BHOP Guest 24/Desktop/LevelProject-5.2/Content/LearningKit_Games/Blueprints/Enemies/BPMortarProjectile.uasset",
+				"C:/Users/BHOP Guest 24/Desktop/LevelProject-5.2/Content/BlockGame/Maps/BlockGameMap.umap",
+				"C:/Users/BHOP Guest 24/Desktop/LevelProject-5.2/Content/LearningKit_Games/Blueprints/Enemies/BPMortar.uasset",
 				"C:/Users/adcheng4/Desktop/LevelProject-5.2/Content/BlockGame/Maps/BlockGameMap.umap",
 				"C:/Users/adcheng4/Desktop/LevelProject-5.2/Content/LearningKit_Games/Blueprints/PlayerCharacter/MyPlayer.uasset",
 				"C:/Users/adcheng4/Desktop/LevelProject-5.2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Score.uasset",
